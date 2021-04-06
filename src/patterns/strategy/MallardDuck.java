@@ -12,4 +12,3 @@ public class MallardDuck extends Duck{
         System.out.println("I am a  real Mallard duck.");
     }
 }
-f
